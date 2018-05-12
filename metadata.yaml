@@ -1,0 +1,36 @@
+_repo: Tom-Slade-on-the-River_42155
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 42155-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, P. K. (Percy Keese)
+    - Fitzhugh, Percy K.
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: ''
+gutenberg_issued: '2013-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcc 'PZ'
+title: Tom Slade on the River
+url: http://www.gutenberg.org/ebooks/42155
