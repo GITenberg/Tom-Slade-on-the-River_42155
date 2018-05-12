@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42155#Tom-Slade-on-the-River
 gutenberg_issued: '2013-02-22'
 gutenberg_type: Text
 identifiers:
